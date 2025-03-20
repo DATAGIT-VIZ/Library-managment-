@@ -9,8 +9,7 @@
 
 This project showcases the development of a **Library Management System** using SQL. It involves **creating and managing tables**, executing **CRUD operations**, and running **advanced SQL queries**. The objective is to demonstrate proficiency in **database design, data manipulation, and querying techniques**.
 
-![Library_project](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Flibrary-management&psig=AOvVaw1GpHXFEVJmxajLjd5f_wvb&ust=1742541864891000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDS2buQmIwDFQAAAAAdAAAAABAJ)
-
+![Library_project](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy-JLiKzJgyGBtO7t-abQDRYpvzEBoPCxkzw&s)
 ## Objectives
 
 1. **Set up the Library Management System Database**: Create and populate the database with tables for branches, employees, members, books, issued status, and return status.
